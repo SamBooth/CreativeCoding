@@ -15,5 +15,5 @@ Usage Instructions
 Your left hand controls which type of mesh is being used on the y axis. Your right hand controls the zoom on the z axis. 
 
 Documentation Video
-https://youtu.be/-bRunKxb9Ro
+https://www.youtube.com/edit?o=U&video_id=1TEr67DE9T4
 
