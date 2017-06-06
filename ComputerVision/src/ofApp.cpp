@@ -142,6 +142,18 @@ void ofApp::draw(){
             //use leapmotion to control the easycam with your right hand
             if(!(simpleHands[i].isLeft)){
             easyCam.setDistance(tip.z*20);
+                if(tip.x > -100 && tip.x < 100){
+                    easyCam.pan(0);
+                }else if (tip.x < -100){
+                    easyCam.pan(-1);
+                }
+                else if(tip.x > 100){
+                    easyCam.pan(1);
+                }
+                else{
+                    easyCam.pan(1);
+                }
+
             }
             //use leapmotion to control which mesh you're using with your left hand
             if((simpleHands[i].isLeft)){

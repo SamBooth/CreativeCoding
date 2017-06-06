@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF832117F2C14E49BD8B14A489AA0AF0DE7E5B81",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF832117F2C14E49BD8B14A489AA0AF0DE7E5B81" : 9223372036854775807,
+    "A25F6580E92F33C4CD48FA665602DC2F44DDCEA5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2211F89B-26BC-467E-820C-B12068BCBE53",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF832117F2C14E49BD8B14A489AA0AF0DE7E5B81" : "CreativeCoding\/",
+    "A25F6580E92F33C4CD48FA665602DC2F44DDCEA5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "booth_Addons",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "booth_Addons\/booth_Addons.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SamBooth\/booth_assignment4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A25F6580E92F33C4CD48FA665602DC2F44DDCEA5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SamBooth\/CreativeCoding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF832117F2C14E49BD8B14A489AA0AF0DE7E5B81"
+    }
+  ]
+}
